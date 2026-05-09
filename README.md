@@ -1,5 +1,5 @@
 # retro-unity-shaders
-A repository for a series of shaders im making.
+A repository for a series of shaders im making. These were all made in Unity 6.3 LTS using URP.
 
 # N64 Shader
 Heres a few examples of the N64 shader. On the left is a mario model using the default URP shader. On the right is the custom N64 shader.
